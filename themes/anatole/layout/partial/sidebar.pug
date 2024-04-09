@@ -1,0 +1,36 @@
+.sidebar.animated.fadeInDown
+  .logo-title
+    .title
+      img(src= url_for('images/logo@2x.png'), style="width:127px;")
+      h3
+        a(href="/")= config.title
+      if config.description
+        .description
+          p= config.description
+
+  ul.social-links
+    if theme.facebook
+      li
+        a(href= theme.facebook)
+          i.fa.fa-facebook
+    if theme.twitter
+      li
+        a(href= theme.twitter)
+          i.fa.fa-twitter
+    if theme.instagram
+      li
+        a(href= theme.instagram)
+          i.fa.fa-instagram
+    if theme.github
+      li
+        a(href= theme.github)
+          i.fa.fa-github
+    if theme.linkedin
+      li
+        a(href= theme.linkedin)
+          i.fa.fa-linkedin
+    if theme.mail
+      li
+        a(href= theme.mail)
+          i.fa.fa-envelope
+  include footer
