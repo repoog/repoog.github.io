@@ -1,10 +1,10 @@
 extends partial/layout
 
 block site_title
-    !=  `${__('Archive')} · ${config.title}`
+    !=  `${__('navbar.archive')} · ${config.title}`
 
 block description
-    - var desc = `${__('Archive')} - ${config.title}`;
+    - var desc = `${__('navbar.archive')} - ${config.title}`;
     meta(name="description", content=desc)
 
 block content
@@ -13,4 +13,4 @@ block content
         ul.list-with-title
           include mixins
           +postList()
-          +make_pager(__('prev'), __('next'))
+          +make_pager(__('common.prev'), __('common.next'))

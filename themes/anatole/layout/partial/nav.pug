@@ -2,19 +2,24 @@
   .nav
     li
       if is_home()
-        a.current(href="/")= __('Home')
+        a.current(href="/")= __('navbar.home')
       else
-        a(href="/")= __('Home')
+        a(href="/")= __('navbar.home')
+    //- li
+    //-   if is_category()
+    //-     a.current(href="/categories")= __('navbar.category')
+    //-   else
+    //-     a(href="/categories")= __('navbar.category')
     li
       if is_archive()
-        a.current(href="/archives")= __('Archive')
+        a.current(href="/archives")= __('navbar.archive')
       else
-        a(href="/archives")= __('Archive')
+        a(href="/archives")= __('navbar.archive')
     li
       if is_current('about')
-        a.current(href="/about")= __('About')
+        a.current(href="/about")= __('navbar.about')
       else
-        a(href="/about")= __('About')
+        a(href="/about")= __('navbar.about')
 
   .information
     .back_btn

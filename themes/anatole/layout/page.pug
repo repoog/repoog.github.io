@@ -10,6 +10,8 @@ block description
 block content
   .autopagerize_page_element: .content: .post-page
     include mixins
-    +make_post(page, true)
+    - var awl = theme.meta.wordcount.awl
+    - var wpm = theme.meta.wordcount.wpm
+    +make_post(page, true, theme.meta.wordcount.enable, awl, wpm)
     if page.comments
         include partial/comments
