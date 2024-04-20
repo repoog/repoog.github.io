@@ -6,14 +6,8 @@ excerpt: 本文介绍的是通过Swaks工具对于不同企业邮箱的邮件伪
 tags:
   - DKIM
   - DMARC
-  - Gmail
-  - ProtonMail
-  - QQ邮箱
   - SPF
-  - Swaks
-  - 腾讯企业邮箱
   - 邮件伪造
-  - 阿里云企业邮箱
 categories:
   - 邮箱安全
 ---

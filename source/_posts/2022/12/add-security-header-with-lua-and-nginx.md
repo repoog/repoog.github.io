@@ -5,14 +5,10 @@ author: repoog
 excerpt: Lua语言可以作为Nginx插件的开发语言使用，本文介绍的是使用Lua语言开发Nginx的插件来实现对于恶意访问IP的阻拦，并自动添加和设置HTTP的安全响应头，以节省Nginx的配置操作。
 comments: true 
 tags:
-  - Content-Security-Policy
   - Lua
   - Nginx
-  - Strict-Transport-Security
-  - X-Content-Type-Options
-  - X-Frame-Options
-  - X-XSS-Protection
-  - 安全响应
+  - 插件开发
+  - 安全配置
 categories:
   - 系统安全
 ---

@@ -4,10 +4,8 @@ date: 2023-06-30 22:55:27
 author: repoog
 excerpt: Nmap工具常常被用来识别端口以及端口对应的系统服务或系统应用，在安全测试过程中能够识别更为详细的服务版本也是相当重要的。但Nmap不一定能够对所有的服务版本都能够识别，本文解决的是Nmap识别MongoDB 6.0的问题，通过手动修改Nmap的指纹文件识别该服务版本。
 tags:
-  - 6.0.4
   - MongoDB
   - Nmap
-  - nmap-service-probe
   - 指纹识别
   - 网络扫描
 categories:

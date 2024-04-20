@@ -8,8 +8,7 @@ tags:
   - Arduino
   - 伺服电机
   - 光敏传感器
-  - 小恐龙
-  - 游戏
+  - 小恐龙游戏
   - Chrome
 categories:
   - DIY

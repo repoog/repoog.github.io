@@ -7,7 +7,7 @@ comments: true
 tags:
   - tf-idf
   - 机器学习
-  - 贝叶斯
+  - 朴素贝叶斯
   - 算法
 categories:
   - 机器学习

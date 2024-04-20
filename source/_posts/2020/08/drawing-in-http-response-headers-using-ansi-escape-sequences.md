@@ -12,7 +12,6 @@ tags:
   - 日志注入
 categories:
   - Web安全
-  - 奇淫技巧
 ---
 
 之前无意中看到一条有趣的推，@[thingskatedid](https://twitter.com/thingskatedid) 在HTTP Response Header中画了一只卡通图案：

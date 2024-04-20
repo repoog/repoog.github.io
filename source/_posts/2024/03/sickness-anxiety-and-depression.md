@@ -5,7 +5,6 @@ author: repoog
 excerpt: 本文是过年期间经历生病、焦虑和抑郁，并且after getting up之后，对于这段经历选择采用的不同方法来治愈自己的总结。
 comments: true
 tags:
-  - 情绪
   - 抑郁
   - 焦虑
   - 电影

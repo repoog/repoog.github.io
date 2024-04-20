@@ -9,7 +9,6 @@ tags:
   - DMARC
   - SPF
   - 邮件伪造
-  - 邮件安全
   - 邮件溯源
 categories:
   - 邮件安全

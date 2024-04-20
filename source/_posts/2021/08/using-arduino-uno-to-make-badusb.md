@@ -10,7 +10,6 @@ tags:
   - BadUSB
   - Flip
 categories:
-  - DIY
   - 硬件安全
 ---
 

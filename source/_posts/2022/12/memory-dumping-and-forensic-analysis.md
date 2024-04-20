@@ -5,7 +5,6 @@ author: repoog
 excerpt: 内存取证是电子取证的一部分，也是电子取证中相对较难的部分。CTF比赛中常常有关于内存转储或取证的题目，但大多数题目在设计上相对粗浅，或不贴近实际工作。本文介绍的是基于Volatility工具的内存转储和取证分析的基本原理和操作。
 comments: true
 tags:
-  - dwarf2json
   - LiME
   - Volatility
   - 内存分析
