@@ -4,19 +4,18 @@
 
 # Site
 title: 边窗
-subtitle: '分享网络安全、软件开发和团队管理随笔。'
+subtitle: '分享安全、开发和管理随笔。'
 description: '分享网络安全、软件开发和团队管理随笔。'
-keywords: 网络通信,网络安全,安全漏洞,漏洞分析,编程开发,软件开发,电子DIY,团队管理,企业管理,读书,Arduino,Python
+keywords: 网络通信,网络安全,安全漏洞,漏洞分析,编程开发,软件开发,电子DIY,团队管理,企业管理,读书,Arduino,Python,PHP
 author: repoog
 language: 
  - zh-cn
- - zh-tw
  - en-us
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://repoog.github.io
+url: https://peirs.net
 permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,4 +100,4 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: apollo

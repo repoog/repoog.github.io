@@ -2,7 +2,7 @@
 title: SDL实践之安全要求
 date: 2021-07-09 18:10:11
 author: repoog
-summary: 本文是SDL实践系列的第二篇文章，重点介绍在软件的需求阶段应当如何构建和开始安全要求相关的工作。
+excerpt: 本文是SDL实践系列的第二篇文章，重点介绍在软件的需求阶段应当如何构建和开始安全要求相关的工作。
 comments: true
 tags:
   - SDL

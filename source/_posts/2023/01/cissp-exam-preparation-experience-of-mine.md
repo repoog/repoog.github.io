@@ -2,7 +2,7 @@
 title: CISSP备考经验谈
 date: 2023-01-15 00:31:46
 author: repoog
-summary: 笔者从准备考CISSP到通过CISSP考试大约用了5个月时间，本文介绍从准备考试到通过考试总结的一些CISSP认证的考试经验。
+excerpt: 笔者从准备考CISSP到通过CISSP考试大约用了5个月时间，本文介绍从准备考试到通过考试总结的一些CISSP认证的考试经验。
 comments: true
 tags:
   - CISSP

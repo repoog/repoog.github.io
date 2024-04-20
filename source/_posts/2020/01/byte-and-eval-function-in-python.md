@@ -2,7 +2,7 @@
 title: Python的Eval和字节码
 date: 2020-01-02 18:50:38
 author: repoog
-summary: 本文介绍在Python程序中如何利用不安全的函数evil来实现对于拒绝服务攻击代码的执行，以及其攻击原理。
+excerpt: 本文介绍在Python程序中如何利用不安全的函数evil来实现对于拒绝服务攻击代码的执行，以及其攻击原理。
 comments: true
 tags:
   - Python

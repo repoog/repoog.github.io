@@ -2,7 +2,7 @@
 title: Nginx的merge_slashes解析
 date: 2022-07-13 19:26:08
 author: repoog
-summary: 一家企业的安全人员发现产品在测试环境和生产环境中有一个完全不同的路径穿越漏洞，该漏洞在测试环境中没有发现，却神奇的会在生产环境中出现。经过分析发现是由于Amazon的负载均衡内部的Nginx配置导致。本文从源码层面分析Nginx中merge_slashes的配置，并介绍该配置是如何阻止路径穿越漏洞的。
+excerpt: 一家企业的安全人员发现产品在测试环境和生产环境中有一个完全不同的路径穿越漏洞，该漏洞在测试环境中没有发现，却神奇的会在生产环境中出现。经过分析发现是由于Amazon的负载均衡内部的Nginx配置导致。本文从源码层面分析Nginx中merge_slashes的配置，并介绍该配置是如何阻止路径穿越漏洞的。
 comments: true
 tags:
   - merge_slashes

@@ -56,7 +56,7 @@ categories:
 
 从技术供应的角度，企业供应链安全的风险来源如下图：
 
-![供应链安全风险](images/2022/09/supply-chain-summary.png '供应链安全风险')
+![供应链安全风险](images/2022/09/supply-chain-excerpt.png '供应链安全风险')
 
 ### **二、供应商管理和采购**
 

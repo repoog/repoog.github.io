@@ -2,7 +2,7 @@
 title: WSL2中使用Kali桌面
 date: 2020-07-03 14:26:58
 author: repoog
-summary: 本文介绍WSL中安装了Kali系统后，如果通过宿主机对Kali系统进行桌面访问，而不必使用终端。WSL一直在更新和发展，因此文章中办法在后续WSL的更新中可能会失效，或者有官方自带的桌面访问方式替代。
+excerpt: 本文介绍WSL中安装了Kali系统后，如果通过宿主机对Kali系统进行桌面访问，而不必使用终端。WSL一直在更新和发展，因此文章中办法在后续WSL的更新中可能会失效，或者有官方自带的桌面访问方式替代。
 comments: true
 tags:
   - Kali

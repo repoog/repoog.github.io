@@ -2,7 +2,7 @@
 title: SSH的ProxyJump参数
 date: 2020-10-30 16:15:23
 author: repoog
-summary: 本文介绍了在某些场景下，如何使用SSH的端口转发功能实现对于无法访问或无法连接服务器的连接操作，其中用到了SSH的参数ProxyJump。
+excerpt: 本文介绍了在某些场景下，如何使用SSH的端口转发功能实现对于无法访问或无法连接服务器的连接操作，其中用到了SSH的参数ProxyJump。
 comments: true
 tags:
   - SSH

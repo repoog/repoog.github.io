@@ -2,7 +2,7 @@
 title: Wireshark解析TLS协议
 date: 2020-06-24 16:35:59
 author: repoog
-summary: 在一些场景下需要对于SSL或TLS加密的通讯进行解密，尤其是遇到二进制应用程序的时候，因此需要能够使用正确的方法对于SSL/TLS通讯进行解密，而最合适的工具莫过于Wireshark。
+excerpt: 在一些场景下需要对于SSL或TLS加密的通讯进行解密，尤其是遇到二进制应用程序的时候，因此需要能够使用正确的方法对于SSL/TLS通讯进行解密，而最合适的工具莫过于Wireshark。
 comments: true
 tags:
   - HTTPS

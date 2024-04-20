@@ -2,7 +2,7 @@
 title: 怀念左耳朵耗子
 date: 2023-05-17 14:53:18
 author: repoog
-summary: 谨以本文怀念左耳朵耗子。
+excerpt: 谨以本文怀念左耳朵耗子。
 comments: true
 tags:
   - CoolShell

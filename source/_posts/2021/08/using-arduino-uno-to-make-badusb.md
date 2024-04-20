@@ -2,7 +2,7 @@
 title: 使用Arduino UNO制作BadUSB
 date: 2021-08-02 19:40:01
 author: repoog
-summary: BadUSB攻击已经是多年前的技术了，攻击成本只需要十来块人民币，网络上有很多基于诸如Rubber Ducky的制作方法。笔者用手头的Arduino设备想制作BadUSB的攻击设备，本文即是介绍基于Arduino UNO的BadUSB攻击方法（当然，其他类型的Arduino设备也可以使用）。
+excerpt: BadUSB攻击已经是多年前的技术了，攻击成本只需要十来块人民币，网络上有很多基于诸如Rubber Ducky的制作方法。笔者用手头的Arduino设备想制作BadUSB的攻击设备，本文即是介绍基于Arduino UNO的BadUSB攻击方法（当然，其他类型的Arduino设备也可以使用）。
 comments: true
 tags:
   - Arduino
