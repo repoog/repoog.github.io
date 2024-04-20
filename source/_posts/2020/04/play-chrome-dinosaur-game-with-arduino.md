@@ -2,7 +2,7 @@
 title: Chrome小恐龙游戏的沙雕玩法
 date: 2020-04-12 15:33:07
 author: repoog
-summary: 看到网上有一个关于程序员是如何玩Chrome浏览器中的小恐龙游戏的，发觉自己是可以DIY一个类似的。于是用手边的Arduino以及伺服电机、光敏传感器手搓了一个一模一样的装置。
+excerpt: 看到网上有一个关于程序员是如何玩Chrome浏览器中的小恐龙游戏的，发觉自己是可以DIY一个类似的。于是用手边的Arduino以及伺服电机、光敏传感器手搓了一个一模一样的装置。
 comments: true
 tags:
   - Arduino

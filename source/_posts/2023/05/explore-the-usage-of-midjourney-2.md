@@ -1,7 +1,7 @@
 ---
 title: 探索MidJourney的用法（二）
 date: 2023-05-30 10:54:56
-summary: MidJourney最近非常火热，通过文本生成的图片极其逼真，笔者继续尝试基于官方的操作指令探索MJ的更多用法和效果。
+excerpt: MidJourney最近非常火热，通过文本生成的图片极其逼真，笔者继续尝试基于官方的操作指令探索MJ的更多用法和效果。
 comments: true
 tags:
   - AI作图

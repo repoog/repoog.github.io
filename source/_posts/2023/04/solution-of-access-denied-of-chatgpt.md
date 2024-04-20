@@ -2,7 +2,7 @@
 title: ChatGPT无法访问的解决
 date: 2023-04-12 15:55:39
 author: repoog
-summary: 虽然ChatGPT很好用，但是由于访问来源的限制，对于非原生IP的要求，许多时候即便翻墙也不能正常访问。本文介绍如果通过利用Cloudflare的Warp解决ChatGPT无法访问的问题。
+excerpt: 虽然ChatGPT很好用，但是由于访问来源的限制，对于非原生IP的要求，许多时候即便翻墙也不能正常访问。本文介绍如果通过利用Cloudflare的Warp解决ChatGPT无法访问的问题。
 tags:
   - ChatGPT
   - file descriptor

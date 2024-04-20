@@ -2,7 +2,7 @@
 title: XShell的session密码找回
 date: 2020-11-02 21:51:01
 author: repoog
-summary: XShell是很好用的终端管理工具，但如果忘记了会话的密码是一件很麻烦的事，本文介绍的是如果用简单的Python代码找回被遗忘的会话密码，或者叫做服务器连接密码。
+excerpt: XShell是很好用的终端管理工具，但如果忘记了会话的密码是一件很麻烦的事，本文介绍的是如果用简单的Python代码找回被遗忘的会话密码，或者叫做服务器连接密码。
 comments: true
 tags:
   - session

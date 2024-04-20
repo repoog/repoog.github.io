@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 author: {{ author }}
-summary: 
+excerpt: 
 comments: true
 tags:
  - 

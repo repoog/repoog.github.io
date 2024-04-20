@@ -2,7 +2,7 @@
 title: DIY可乐的实验
 date: 2023-11-13 23:33:05
 author: repoog
-summary: 本文是依据早前的实验整理而来的，虽然非常简短，但对于可乐爱好者而言非常值得一试。
+excerpt: 本文是依据早前的实验整理而来的，虽然非常简短，但对于可乐爱好者而言非常值得一试。
 comments: true
 tags:
   - DIY

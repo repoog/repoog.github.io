@@ -2,7 +2,7 @@
 title: SDL实践之安全验证
 date: 2023-11-02 17:08:40
 author: repoog
-summary: 本文是SDL实践系列的第五篇文章，着重介绍在安全测试或安全验证阶段可以采用的思路和手段。
+excerpt: 本文是SDL实践系列的第五篇文章，着重介绍在安全测试或安全验证阶段可以采用的思路和手段。
 comments: true
 tags:
   - SDL

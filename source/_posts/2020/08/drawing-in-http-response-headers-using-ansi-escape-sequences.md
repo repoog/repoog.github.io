@@ -2,7 +2,7 @@
 title: 利用ANSI转义序列在HTTP响应头画图
 date: 2020-08-14 18:54:41
 author: repoog
-summary: 看到有人在推上发了一条在HTTP Response Header中呈现的卡通图案，感觉很有趣，但对方用的并非是常用的Apache或者Nginx服务，所以采用类似的思路，用Nginx+PHP实现了类似的效果。这同时也可以看到ANSI转义序列在Web安全中的风险和应用。
+excerpt: 看到有人在推上发了一条在HTTP Response Header中呈现的卡通图案，感觉很有趣，但对方用的并非是常用的Apache或者Nginx服务，所以采用类似的思路，用Nginx+PHP实现了类似的效果。这同时也可以看到ANSI转义序列在Web安全中的风险和应用。
 comments: true
 tags:
   - ANSI ESCAPE SEQUENCE

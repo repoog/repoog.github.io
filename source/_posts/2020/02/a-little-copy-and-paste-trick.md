@@ -2,7 +2,7 @@
 title: 一个复制粘贴的小技巧
 date: 2020-02-26 01:08:42
 author: repoog
-summary: 使用Javascript在用户进行双击操作时候自动复制文本是很多网站具备的功能，本例来自对于百度一处复制操作的Bug，从而发现可以使用更为简单的办法实现相同的功能。
+excerpt: 使用Javascript在用户进行双击操作时候自动复制文本是很多网站具备的功能，本例来自对于百度一处复制操作的Bug，从而发现可以使用更为简单的办法实现相同的功能。
 comments: true
 tags:
   - clipboardData

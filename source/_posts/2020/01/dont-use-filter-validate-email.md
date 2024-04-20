@@ -2,7 +2,7 @@
 title: 别用FILTER_VALIDATE_EMAIL
 date: 2020-01-13 17:08:38
 author: repoog
-summary: 本文介绍的是PHP自带的过滤函数filter_var对于邮箱地址有效性检测的不足，通过构造特殊的邮箱地址，可以绕过该过滤函数的邮箱检测机制，从而触发XSS漏洞。
+excerpt: 本文介绍的是PHP自带的过滤函数filter_var对于邮箱地址有效性检测的不足，通过构造特殊的邮箱地址，可以绕过该过滤函数的邮箱检测机制，从而触发XSS漏洞。
 comments: true
 tags:
   - FILTER_VALIDATE_EMAIL
